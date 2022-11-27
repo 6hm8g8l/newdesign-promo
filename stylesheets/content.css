@@ -1,0 +1,208 @@
+body{
+  background-color: #EFEFEF;
+  overflow-x: hidden;
+}
+section {
+  height: 100vh;
+  margin: 0;
+}
+h1{
+font-family: 'Diagramatika';
+font-size: 1.88vw;
+font-weight: normal;
+color: #3860EC;
+}
+p{
+font-family: 'Diagramatika';
+font-size: 1.88vw;
+font-weight: normal;
+line-height: 121%;
+}
+span {
+  font-family: '21Cent-Italic';
+  font-size: 2.50vw;
+  font-weight: normal;
+  color: #FDFF8B;
+  -webkit-text-stroke:0.08vw #FDFF8B;
+}
+h2{
+  font-family: '21Cent-Italic';
+  font-size: 5vw;
+  font-weight: normal;
+  color: #FDFF8B;
+  -webkit-text-stroke:0.31vw #3860EC;
+}
+.navigation {
+  width: 91vw;
+  display: flex;
+  left: 4%;
+  top: 6%;
+  position: relative;
+  justify-content: space-between;
+}
+.underimg1, .underimg2, .underimg3{
+  width: 10vw;
+}
+.underimg2, .underimg3{
+  opacity: 0;
+}
+.promob{
+  text-align: center;
+}
+.aboutb{
+  text-align: center;
+}
+.contactsb{
+  text-align: center;
+}
+.ouch{
+  margin-top: 0%;
+  text-align: center;
+  width: 100vw;
+}
+.mainlogo{
+  width: 64vw;
+}
+.descript{
+  margin-top: 2%;
+  text-align: center;
+}
+.arrow{
+  margin-left: 27%;
+  margin-top: -2%;
+}
+.arrowimg{
+  width: 9vw;
+}
+.firsttext{
+  color: #3860EC;
+  padding-top: 4%;
+  margin-left: 4%;
+  width: 34vw;
+}
+.textstack{
+  width: 94vw;
+}
+.textimg{
+  text-align: center;
+  margin-top: -21%;
+}
+.back{
+  padding-top: 10%;
+  width: 100vw;
+  text-align: center;
+}
+.backrect{
+  width: 97vw;
+}
+.cardsb{
+  margin-top: -53%;
+  width: 100vw;
+  text-align: center;
+}
+.cards{
+  width: 44vw;
+}
+.secondtextb{
+  width: 100vw;
+  display: flex;
+  justify-content: space-around;
+}
+.secondtext{
+  color: #EFEFEF;
+  /* padding-top: 0%;
+  margin-left: 24%; */
+  width: 52vw;
+}
+.cib{
+  margin-left: 4%;
+  margin-top: -16%;
+}
+.cardillust{
+  width: 22vw;
+}
+.chib{
+  margin-left: 71%;
+  margin-top: -39%;
+}
+.checkillust{
+  width: 22vw;
+}
+.lasthead{
+  padding-top: 23%;
+  width: 100vw;
+  text-align: center;
+}
+.lastdescriptb{
+  margin-top: 1%;
+  width: 100vw;
+  text-align: center;
+  display: flex;
+  justify-content: space-around;
+}
+.lastdecript{
+  width: 33vw;
+}
+.emaild{
+  width: 100vw;
+  text-align: center;
+}
+#email {
+  font-family: 'Diagramatika';
+  color: #FDFF8B;
+  padding: 5px 25px;
+  margin-top: 4%;
+  width: 26vw;
+  height: 5vh;
+  font-size: 1.25vw;
+  border: none;
+  border-radius: 66px;
+  background-color: #3860EC;
+  cursor: pointer;
+  text-decoration: none;
+}
+#emailb {
+  font-family: 'Diagramatika';
+  margin-left: -9%;
+  color: #FDFF8B;
+  font-size: 1.25vw;
+  border: none;
+  background: transparent;
+  cursor: pointer;
+}
+.clock{
+  position: relative;
+  z-index: -1;
+  margin-top: -19%;
+  margin-left: -3%;
+}
+.clockillust{
+  width: 37vw;
+}
+.letter{
+  position: relative;
+  z-index: -1;
+  margin-top: -54%;
+  margin-left: 21%;
+}
+.letterillust{
+  width: 29vw;
+}
+.boy{
+  position: relative;
+  z-index: -1;
+  margin-top: -24%;
+  margin-left: 56%;
+}
+.boyillust{
+  width: 45vw;
+}
+.draw{
+  position: relative;
+  z-index: -1;
+  margin-top: -8%;
+  margin-left: 54%;
+}
+.drawillust{
+  width: 23vw;
+}
